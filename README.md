@@ -1,12 +1,18 @@
 <div align="center"><h1> Cyber-Securities-Full-General-Subjects </h1></div>
 
-# 🚀 My Learning Path
+# 🚀 Welcome to My Profile
+
+---
 
 ## 🏁 First Step Is Lern: Fundamental
 
-To start learning from the beginning, please search for the **Fundamental** repository in my profile. This is the mandatory first step to understand the core concepts of computing and networking.
+> [!IMPORTANT]
+> | 📂 **Mandatory First Step** |
+> | :--- |
+> | To start learning from the beginning, please search for the **Fundamental** repository in my profile. This is the essential foundation for understanding the core concepts of computing and networking. |
 
 ![Start Learning]
+
 ---
 
 ## 🔍 How To Find It
@@ -17,6 +23,6 @@ To start learning from the beginning, please search for the **Fundamental** repo
 ---
 
 ### 📺 Deep Learning Resource
-I highly recommend the ** by bitten tech** YouTube channel for anyone wanting to learn Networking in depth.
+I highly recommend the **Bitten Tech** YouTube channel for anyone wanting to learn Networking in depth.
 
 ---
