@@ -26,3 +26,38 @@
 I highly recommend the **Bitten Tech** YouTube channel for anyone wanting to learn Networking in depth.
 
 ---
+
+# 🌐 Step 2 Is Lern: Networking
+
+> [!IMPORTANT]
+> | 📂 **Mandatory Second Step** |
+> | :--- |
+> | After mastering the Fundamentals, search for the **Networking** repository in my profile. This is the essential next step to understand how data travels, routing, and internet protocols. |
+
+
+
+[Image of the 7 layers of the OSI model]
+
+
+---
+
+## 🔍 How To Find It
+1. Click on my **Repositories** tab.
+2. Search for the name: **"Networking"**.
+3. Master the OSI Model, IP Addressing, Subnetting, and Server Ports.
+
+---
+
+## 🛰️ Key Topics Covered
+* **OSI Model:** Deep dive into all 7 Layers.
+* **IP Addressing:** IPv4, IPv6, Public vs Private IPs.
+* **Subnetting:** CIDR notation and network calculations.
+* **Protocols:** DHCP (DORA), DNS, and TCP/UDP.
+
+---
+
+### 📺 Deep Learning Resource
+I highly recommend the **Bitten Tech** YouTube channel for mastering these networking concepts deeply.
+
+---
+<div align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100"></div>
