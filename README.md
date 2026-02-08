@@ -60,4 +60,4 @@ I highly recommend the **Bitten Tech** YouTube channel for anyone wanting to lea
 I highly recommend the **Bitten Tech** YouTube channel for mastering these networking concepts deeply.
 
 ---
-<div align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="120" /></div>
