@@ -44,7 +44,8 @@ I highly recommend the **Bitten Tech** YouTube channel for anyone wanting to lea
 ## 🔍 How To Find It
 1. Click on my **Repositories** tab.
 2. Search for the name: **"Networking"**.
-3. Master the OSI Model, IP Addressing, Subnetting, and Server Ports.
+3. Search for the part 2 : **"Networking p2"**.
+4. Master the OSI Model, IP Addressing, Subnetting, and Server Ports.
 
 ---
 
