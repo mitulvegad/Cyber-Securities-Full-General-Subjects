@@ -11,7 +11,7 @@
 > | :--- |
 > | To start learning from the beginning, please search for the **Fundamental** repository in my profile. This is the essential foundation for understanding the core concepts of computing and networking. |
 
-![Start Learning]
+![Start Learning]! 
 
 ---
 
