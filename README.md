@@ -15,7 +15,7 @@
 
 ---
 
-🔍 How To Find It
+⃢🔍 How To Find It
 1. Click on my **Repositories** tab.
 2. Search for the name: **"Fundamental"**.
 3. Start your journey with Software, Hardware, Linux, and Networking.
