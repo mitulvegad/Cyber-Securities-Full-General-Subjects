@@ -4,7 +4,7 @@
 
 ---
 
-## 🏁 First Step Is Lern: Fundamental
+◆ 🏁 First Step Is Lern: Fundamental
 
 > [!IMPORTANT]
 > | 📂 **Mandatory First Step** |
