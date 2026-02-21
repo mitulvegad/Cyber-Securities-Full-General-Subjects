@@ -22,7 +22,7 @@
 
 ---
 
-### 📺 Deep Learning Resource
+ 📺 Deep Learning Resource
 I highly recommend the **Bitten Tech** YouTube channel for anyone wanting to learn Networking in depth.
 
 ---
